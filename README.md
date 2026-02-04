@@ -53,6 +53,19 @@ including entities, attributes, and relationships.
 
 ---
 
+## Screenshots
+
+### Database Structure
+![Database Structure](screenshots/database-structure.png)
+
+### Sample SELECT Query
+![SELECT Query](screenshots/select-join.png)
+
+### Advanced SQL Query
+![Advanced Query](screenshots/advanced-query.png)
+
+
+
 ## Project Structure
 ```text
 company-database-management/
