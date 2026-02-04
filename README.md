@@ -21,6 +21,20 @@ The database includes the following main entities:
 
 Relationships include:
 - One-to-many relationships between departments and employees
+
+
+
+
+
+
+
+## ER Diagram
+
+This ER diagram represents the conceptual design of the database,
+including entities, attributes, and relationships.
+
+![ER Diagram](diagrams/er-diagram.png)
+
 - Many-to-many relationships between employees and projects
 - Department management relationships
 
