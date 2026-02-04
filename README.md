@@ -53,16 +53,18 @@ including entities, attributes, and relationships.
 
 ---
 
+
 ## Screenshots
 
 ### Database Structure
 ![Database Structure](screenshots/database-structure.png)
 
-### Sample SELECT Query
-![SELECT Query](screenshots/select-join.png)
+### Create Tables (MySQL)
+![Create Tables](screenshots/create-tables.png)
 
-### Advanced SQL Query
-![Advanced Query](screenshots/advanced-query.png)
+### Sample SELECT Query with JOIN
+![SELECT JOIN](screenshots/select-join.png)
+
 
 
 
