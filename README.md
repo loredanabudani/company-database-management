@@ -78,5 +78,5 @@ company-database-management/
 ├── screenshots/
 │   ├── database-structure.png
 │   ├── select-join.png
-│   └── advanced-query.png
+│   └── create-table.png
 └── README.md
