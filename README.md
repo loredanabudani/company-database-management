@@ -61,3 +61,12 @@ company-database-management/
 ├── diagrams/
 │   └── er-diagram.png
 └── README.md
+
+
+## Screenshots
+
+### Database Structure
+![Database Structure](screenshots/database-structure.png)
+
+### Sample SELECT Query
+![SELECT Query](screenshots/select-join.png)
