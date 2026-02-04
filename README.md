@@ -60,13 +60,8 @@ company-database-management/
 │   └── queries.sql
 ├── diagrams/
 │   └── er-diagram.png
+├── screenshots/
+│   ├── database-structure.png
+│   ├── select-join.png
+│   └── advanced-query.png
 └── README.md
-
-
-## Screenshots
-
-### Database Structure
-![Database Structure](screenshots/database-structure.png)
-
-### Sample SELECT Query
-![SELECT Query](screenshots/select-join.png)
